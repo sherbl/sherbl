@@ -9,7 +9,6 @@
 * 🔎 Focused on **Cybersecurity & Penetration Testing**
 * 🧑‍💻 Building **custom offensive security tools in Python**
 * 🧪 Interested in **Red Teaming, Reconnaissance, and Attack Surface Analysis**
-* 📚 Currently studying **CEH and advanced offensive security techniques**
 * 🛠 Developing tools for **automation of reconnaissance and vulnerability discovery**
 
 ---
