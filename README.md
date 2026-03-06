@@ -1,10 +1,47 @@
-- 👋 Hi, I’m @sherbl
-- 👀 I’m interested in cyber security & penetration testing
-- 🌱 I’m currently learning CEH
-- 💞️ I’m looking to collaborate in cyber security 
-- 📫 How to reach me sherbl.ab@gmail.com
+# 👋 Hi, I'm Sherbl
 
-<!---
-sherbl/sherbl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔴 **Cybersecurity Researcher | Penetration Tester | Offensive Security**
+
+---
+
+## 🧠 About Me
+
+* 🔎 Focused on **Cybersecurity & Penetration Testing**
+* 🧑‍💻 Building **custom offensive security tools in Python**
+* 🧪 Interested in **Red Teaming, Reconnaissance, and Attack Surface Analysis**
+* 📚 Currently studying **CEH and advanced offensive security techniques**
+* 🛠 Developing tools for **automation of reconnaissance and vulnerability discovery**
+
+---
+
+## 🚀 Projects
+
+* 🔥 **Offensive Recon Framework**
+  Automated attack surface discovery tool for reconnaissance and infrastructure mapping.
+
+* 🧰 Security tooling for:
+
+  * Subdomain discovery
+  * DNS intelligence
+  * Port scanning
+  * HTTP service analysis
+  * Attack surface mapping
+
+---
+
+## 🎯 Current Goals
+
+* Improve my **Offensive Security skillset**
+* Develop **custom penetration testing tools**
+* Contribute to **security research & open-source projects**
+* Prepare for advanced certifications
+
+---
+
+## 📫 Contact
+
+📧 [sherbl.ab@gmail.com](mailto:sherbl.ab@gmail.com)
+
+---
+
+⚠️ All tools and research are developed **for educational and authorized security testing purposes only.**
